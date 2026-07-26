@@ -47,3 +47,7 @@ body {
   margin: 0;
   height: 100%;
 }
+
+.match-input-height {
+  height: var(--mat-form-field-container-height) !important;
+}
